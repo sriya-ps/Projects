@@ -19,4 +19,4 @@ These projects were completed as part of coursework and research activities, dem
 
 ---
 
-*For detailed information, please refer to the README file within each project folder.*
+*For detailed information, please refer to the Readme file within each project folder.*
